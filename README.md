@@ -25,7 +25,7 @@ Before running the application, ensure you have the following installed:
 Clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repo/social_media_platform.git
+git clone https://github.com/Tahawaleed/social_media_platform.git
 ```
 
 ### 2. Database Setup
